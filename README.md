@@ -1,0 +1,1 @@
+This repo contains my learnings, code examples and notes from my journey of learning web-dev. I am following the MDN Web Docs to learn the concepts and I keep implementing these concepts side by side.
